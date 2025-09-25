@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App specific tweaks */
+:root { --app-bg: #f6f8fb; }
+html.dark { --app-bg: #071124; }
+body { background: var(--app-bg); }
+
+.card-shadow { box-shadow: 0 6px 18px rgba(12, 18, 36, 0.08); }
+.small-avatar { width: 28px; height: 28px; font-size: 12px; }
