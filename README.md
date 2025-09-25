@@ -78,7 +78,7 @@ advanced-task-manager-revamp-fixed/
 
 ### 1️⃣ Clone the repo / extract ZIP
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd advanced-task-manager
 ```
 or extract the provided `.zip`.
